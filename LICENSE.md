@@ -1,4 +1,4 @@
-# 
+# Avanzado MEV sniper bot flujo de trabajo para Mac OS | Principal MEV sniper bot flujo de trabajo para PC Windows. Con recuperación de tx fallidas y análisis de mercado — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
